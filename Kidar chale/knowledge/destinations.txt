@@ -1,0 +1,92 @@
+DESTINATION KNOWLEDGE BASE
+
+GOA
+Goa is a popular beach destination in India.
+Best time to visit Goa is from October to March.
+Popular places include Baga Beach, Calangute Beach, Anjuna Beach, Vagator Beach, Fort Aguada, Panjim and Basilica of Bom Jesus.
+Activities include beach visits, water sports, sunset views, nightlife, sightseeing and local food.
+Baga and Calangute are suitable for beaches and water activities.
+Anjuna and Vagator are known for scenic beaches and sunset experiences.
+Fort Aguada is a historical attraction.
+Panjim is suitable for exploring Portuguese-influenced architecture and local markets.
+Basilica of Bom Jesus is a famous historical and religious attraction.
+Goa is suitable for beach, nightlife, food, relaxation and adventure trips.
+
+MANALI
+Manali is a mountain destination in Himachal Pradesh.
+Best time to visit Manali depends on the activity. March to June is suitable for pleasant weather and outdoor activities. December to February is suitable for snow experiences.
+Popular places include Solang Valley, Rohtang Pass, Hadimba Temple, Mall Road, Old Manali and Vashisht.
+Activities include snow activities, sightseeing, trekking, mountain views, shopping and cafe visits.
+Solang Valley is suitable for adventure activities and mountain scenery.
+Hadimba Temple is a historical and cultural attraction.
+Mall Road is suitable for shopping and local food.
+Old Manali is popular for cafes, nature and relaxed experiences.
+Manali is suitable for mountains, nature, adventure, relaxation and snow experiences.
+
+OOTY
+Ooty is a hill station in Tamil Nadu.
+Best time to visit Ooty is generally from October to June.
+Popular places include Ooty Lake, Botanical Garden, Doddabetta Peak, Rose Garden and Tea Gardens.
+Activities include boating, sightseeing, nature walks, photography and exploring tea plantations.
+Ooty Lake is suitable for boating and relaxing.
+Doddabetta Peak provides mountain and valley views.
+The Botanical Garden is suitable for nature lovers.
+Tea gardens are suitable for scenic views and photography.
+Ooty is suitable for nature, mountains, relaxation and family trips.
+
+JAIPUR
+Jaipur is the capital of Rajasthan and is known for forts, palaces and historical architecture.
+Best time to visit Jaipur is generally from October to March.
+Popular places include Amber Fort, City Palace, Hawa Mahal, Jantar Mantar and Jal Mahal.
+Activities include sightseeing, photography, shopping, cultural experiences and local food.
+Amber Fort is suitable for history and architecture.
+Hawa Mahal is a famous historical landmark.
+City Palace provides cultural and architectural experiences.
+Jantar Mantar is a historical astronomical observatory.
+Jaipur is suitable for history, culture, food, photography and shopping.
+
+KERALA
+Kerala is known for beaches, backwaters, hills, wildlife and nature.
+Popular destinations include Munnar, Alleppey, Kochi, Varkala and Thekkady.
+Best time to visit depends on the destination, but October to March is generally comfortable for many tourist activities.
+Munnar is suitable for mountains, tea gardens and nature.
+Alleppey is famous for backwaters and houseboat experiences.
+Kochi is suitable for history, culture and food.
+Varkala is suitable for beaches and relaxation.
+Thekkady is suitable for wildlife and nature experiences.
+Kerala is suitable for nature, beaches, relaxation, food, culture and adventure.
+
+HYDERABAD
+Hyderabad is a major city in Telangana known for history, food and modern attractions.
+Popular places include Charminar, Golconda Fort, Hussain Sagar Lake, Salar Jung Museum and Necklace Road.
+Activities include sightseeing, historical exploration, shopping and food experiences.
+Charminar is a famous historical landmark.
+Golconda Fort is suitable for history and architecture.
+Salar Jung Museum is suitable for art and history.
+Hyderabad is especially suitable for history, food, culture and short city trips.
+
+TRAVEL VIBE MAPPING
+
+Beach:
+Goa, Kerala and Varkala are suitable destinations for beach-focused trips.
+
+Mountains:
+Manali, Ooty and Munnar are suitable destinations for mountain-focused trips.
+
+Nature:
+Ooty, Munnar, Kerala and Manali are suitable for nature-focused trips.
+
+Adventure:
+Manali and Goa offer adventure activities.
+
+History:
+Jaipur, Hyderabad and Goa offer historical and cultural attractions.
+
+Food:
+Hyderabad, Goa, Jaipur and Kerala offer diverse food experiences.
+
+Nightlife:
+Goa is suitable for nightlife-focused trips.
+
+Relaxation:
+Goa, Kerala and Ooty are suitable for relaxed trips.
